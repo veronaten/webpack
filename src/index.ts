@@ -1,4 +1,3 @@
 import './style.scss';
 
-
-console.log('test');
+// console.log('test');
